@@ -10,7 +10,7 @@ public class MyFirstScript : MonoBehaviour
 
     void Start()
     {
-        // Store the position where the object is "stuck"
+        print("Step Bro im stuck in the wall");
         originalPosition = transform.localPosition;
     }
 
