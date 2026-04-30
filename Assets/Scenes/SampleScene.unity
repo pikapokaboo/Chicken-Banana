@@ -559,8 +559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 752ee981e235c1a45bc66aeae2c6be12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MyFirstScript
-  baseRotationSpeed: 100
-  glitchIntensity: 1000
+  jitterIntensity: 1
   glitchFrequency: 0.1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
